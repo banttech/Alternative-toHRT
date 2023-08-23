@@ -1,0 +1,148 @@
+A. WITHOUT LOGIN
+--------------------------------------------------------------------------------
+1. URL: http://hrt.banttech.com/  
+a. Chagne menu text About us -> About Us                                   -abhishek -done
+
+2. URL: http://hrt.banttech.com/
+a. Remove "T:" from header phone number. Also remove animation around this number.  -abhishek -done
+b. Display Email after phone number <Email ICON> admin@alternativetohrt.co.uk     -abhishek  -done
+
+3. URL: http://hrt.banttech.com/
+a. Implement Search product page if user clicks on "Search" icon same as live site. -pending
+
+4. URL: http://hrt.banttech.com/
+a. Check Banner Images - There are spelling mistakes and money sign differences. Banners should be same.  - it will be done by akash
+
+5. URL: http://hrt.banttech.com/
+a. Remove "CAPSULES" from "60 CAPSULES - 2 MONTHS SUPPLY CAPSULES" text.  - done
+6. URL: http://hrt.banttech.com/
+a. In "Stay Cool, Calm & Comfortable Day and Night. Get Super Saving Pack – Only £14.99/Bottle When Purchase Pack of 4 Bottles" section Link "Get Your Pack of 4 Bottles - As 59.97" button to the pack of 4 product detail page same as live site.
+
+7. URL: http://hrt.banttech.com/
+a. In "Order Now" section, prices should be with money sign as per live site.
+b. Also, first pack will show price range "19.99 - 59.97" as per live site. And its button will be named as "Select Options". And on click of this button, first pack product detail page will be opened.
+c. Also, on adding product in cart, following message should show:
+<Product Name> was added to the cart.
+Then focus the user to the cart icon or show cart popup just like live site.
+d. Display "Save 10%" option just for each product like live site.
+
+8. URL: http://hrt.banttech.com/
+a. In "Wellness Blog" section, only blog title and 'Read more' should be linked to blog detail page.  abhishek - done
+b. Display blog category and link it to category detail page.                                         abhishek  -done
+c. Also link "Author" to its detail page just like "https://alternativetohrt.co.uk/author/jermainechi/" url and display the blogs created by clicked author. (you can display blog just like http://hrt.banttech.com/hrt/blog page).-pending
+
+9. URL: http://hrt.banttech.com/
+a. Remove "," from 'tel:' code implemented in footer from both the phone numbers. abhishek  - done
+b. Also, link "Shop" menu to Shop url (http://hrt.banttech.com/shop).             abhishek  - done
+c. Change "Wellness Blog" menu url from "http://hrt.banttech.com/hrt/blog" to "http://hrt.banttech.com/wellness-blog".  abhihskek- done
+
+10. URL: http://hrt.banttech.com/
+a. Implement Cookies like live site.
+
+11. URL: http://hrt.banttech.com/
+a. Wishlist is implemented without AJAX. Just implement AJAX function. Also update other 2 pages where products lists are coming with AJAX function.
+
+12. URL: http://hrt.banttech.com/
+a. Create "SITEMAP" just like "https://alternativetohrt.co.uk/sitemap.html/"
+b. Create and link "Privacy Policy" page. This page should be create from Admin Panel. abhishek  -done
+c. Create and link "Terms and Conditions" page. This page should be create from Admin Panel. abhishek  -done
+
+13. URL: http://hrt.banttech.com/ 
+a. Remove hyperlink from '.' in Copyright section. abhishek -done
+
+14. URL: http://hrt.banttech.com/aboutus
+a. "About" should be "About Us".  abhishek -done
+b. In "Dietary Herbal Supplements to replace conventional HRT" section, give line space between the 3 paragraphs.  abhishekn -done
+c. In "Are you ready to get relief from Hot Flushes & Night Sweats?" section, link telephone icon to the "Shop" page url.  abhishek -done
+d. Text "Contact" should be "Follow Us" in the footer.                                                                abhishek -done
+e. Remove "Developed and Maintained by Banttech" from footer.                                                         abhishek -done
+
+15. URL: http://hrt.banttech.com/shop
+a. Add "Product categories" block in this page just like live site. And link the categories with their category detail page.  abhishek -done
+b. Check the "Product Tags" block and their tags links. They have been implemented. You need to check.                        abhishek -done
+c. Display all the information of the products just like live site. See point #7.b and implement the same feature here.       
+
+16. URL: http://hrt.banttech.com/hrt/blog
+a. Change text "Wellness" to "Wellness Blog".  abhishek  - done
+b. Link Blog Category to their Category Detail page. ahishek -done
+c. Link Author to their Author Detail page.-pending
+d. Link 'Read more' to their Blog Detail page.  abhishek -done
+
+17. URL: http://hrt.banttech.com/hrt/blog/fgh
+a. Change "http://hrt.banttech.com/hrt/blog/fgh" to "http://hrt.banttech.com/wellness-blog/fgh"   abhishek -done
+b. In "Categories" block, change category url "http://hrt.banttech.com/hrt/category/health-supplement" to "http://hrt.banttech.com/category/health-supplement"  abhishek -done
+c. Remove Arrow icon in 'Recent Posts' block.      abhishek -done
+d. Check and fix "Leave a Reply" section in this page.  abhishek- pending
+
+18. URL: http://hrt.banttech.com/contactus
+a. Change text "Contact" to "Contact Us".   abhishekn -done
+b. Set "Natural Juices & Vitamins Ltd       
+King's Ave, Sunbury-on-Thames TW16 7QE, United Kingdom" address in Google Map.
+c. Display "We are here to help -pending
+You can reach us through our contact us form or in case you want to speak with one of representatives feel free to call us 0207 205 2477 or 0208 8941315. If calling from abroad please dial: +44 207 205 2477. Lines are open 9am – 8pm Mon-Sat." text at the top just like live site.
+d. Remove "(+44) 207 205 2477,0208 894 1315" from E-Mail block.  abhishek-done
+e. Display "Mon- Sat: 9:00 AM - 8:00 PM" in Business Hours block.
+f. Create a new Green color block for Address and show "Address
+Natural Juices & Vitamins Ltd. Braemar House 30 Kings Ave Sunbury On Thames Middlesex
+TW16 7QE" just like live site.
+g. In "Send Us A Message" form, remove "Phone Number" and "Subject" fields and check this form functionality.-pending
+
+19. URL: http://hrt.banttech.com/cart
+a. Change text "Add To Card" to "Shopping Cart".
+b. Product image is very small. Make it larger.
+c. Product title should be linked to its detail page.
+d. Remove "Total £ 109.96" which is coming right above the Apply Coupon button.
+e. Implement Add Coupon functionality.
+f. Why "Free Shipping" is coming 2 times. Remove any one.
+g. Impement both Paypal and Paymentsense payment gateway properly.
+
+20. URL: http://hrt.banttech.com/login
+a. Change text "Don’t Have An Account ? Please Sign Up" to "Don't Have An Account? Please Sign Up.".  abhishek -done
+b. Implement Captcha in this page.
+
+21. URL: http://hrt.banttech.com/register
+a. Change text "Already Registered?Already have an account ? Please Login" to "Already Registered? Already have an account? Please Login.".  abhishek -done
+b. Replace "Password formate is invalid please enter like this (Abhishek52@)" text with "Password must have at least 8 characters and contains uppercase letters, lowercase letters, numbers, and special characters."  abhishek -done
+b. Implement Captcha in this page.
+
+B. LOGIN AS NORMAL USER
+--------------------------------------------------------------------------------
+1. Homepage
+a. Update Cart icon so that it should show only logged in user's cart items count and not the anonymous users added items count.
+
+2. URL: http://hrt.banttech.com/hrt/my-account
+a. Change URL "http://hrt.banttech.com/hrt/my-account" to "http://hrt.banttech.com/my-account".done
+b. Change text "Hello Tanmay Anand (not Tanmay Anand?Log out)" to "Hello Tanmay Anand (not Tanmay Anand? Logout)".-done abhishek
+c. Link "recent orders", "shipping and billin addresses, and "edit your password...." texts to their respectives pages url as per live site. done- abhishek
+
+3. URL: http://hrt.banttech.com/hrt/my-account/orders
+a. Change URL "http://hrt.banttech.com/hrt/my-account/orders" to "http://hrt.banttech.com/my-account/orders".- done
+b. Change text "My Account" to "Orders".
+c. Add "Browse Products" link somewhere on this page as per live site.- done abhishek
+
+4. URL: http://hrt.banttech.com/hrt/my-account/downloads
+a. Change URL: "http://hrt.banttech.com/hrt/my-account/downloads" to "http://hrt.banttech.com/my-account/downloads".- done abhishek
+b. Change text "My Account" to "Downloads".
+
+5. URL: http://hrt.banttech.com/hrt/my-account/edit-address
+a. Change URL "http://hrt.banttech.com/hrt/my-account/edit-address" to "http://hrt.banttech.com/my-account/edit-address" - done
+b. Display Billing and Shipping addresses here in this page just like "https://alternativetohrt.co.uk/my-account/edit-address/" page.
+
+6. URL: http://hrt.banttech.com/hrt/my-account/add-address/billing
+a. Change URL "http://hrt.banttech.com/hrt/my-account/add-address/billing" to "http://hrt.banttech.com/my-account/add-address/billing".-done
+b. Change text "My Account" to "Billing Address".
+
+7. URL: http://hrt.banttech.com/hrt/my-account/add-address/shipping
+a. Change URL "http://hrt.banttech.com/hrt/my-account/add-address/shipping" to "http://hrt.banttech.com/my-account/add-address/shipping".-done
+b. Change text "My Account" to "Shipping Address".
+
+8. URL: http://hrt.banttech.com/hrt/my-account/edit-account
+a. Change URL "http://hrt.banttech.com/hrt/my-account/edit-account" to "http://hrt.banttech.com/my-account/edit-account".-done 
+b. Change text "My Account" to "Edit Account".
+c. Change text "OLD Passowrd" to "Current password". Display text "leave blank to leave unchanged." below this field.-done abhishek
+d. Change text "CONFIRM PASSWORD" to "CONFIRN NEW PASSWORD".- done abhishek
+
+9. URL: http://hrt.banttech.com/hrt/my-account/wishlist
+a. Change URL "http://hrt.banttech.com/hrt/my-account/wishlist" to "http://hrt.banttech.com/my-account/wishlist".-done
+b. Change text "My Account" to "My Wishlist".
+c. Display products (added in wishlist) here in this page.-done

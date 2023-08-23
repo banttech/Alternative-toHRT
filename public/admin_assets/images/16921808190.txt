@@ -1,0 +1,24 @@
+Site url - https://hrt.banttech.com/
+
+Admin Login Details -
+url - https://hrt.banttech.com/admin
+username - admin@admin.com
+password - 11223344
+
+
+Customer Login Details -
+url - https://hrt.banttech.com/login
+username - ammar.banttech@gmail.com
+password - ammar$$786
+
+
+Paypal Credentials:
+User: sb-swfhu25134565@personal.example.com
+Pass: 7H2@/mEs
+
+
+Paymentsense Credentials:
+Name - Abhishek
+Card - 5413 3300 8902 0011	
+Expiry - 12/25	
+CVV - 123

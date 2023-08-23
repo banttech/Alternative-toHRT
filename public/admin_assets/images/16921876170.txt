@@ -1,0 +1,31 @@
+Hello Victor,
+
+Hope you are doing well...!!
+As per my internal team discussion, I am explaining you the flow of Airwallex and Newsletter sections which are already implemented into the site and running fine.
+
+A. AirWallex Section:
+--------------------------
+1. Open the website: https://omgee.com.au/au/ and login with any customer account.
+2. Once you are logged in, go to "My Profile" (URL: https://omgee.com.au/customer/dashboard) page.
+3. Here on this page, you will see different e-wallets for all the 4 countries.
+4. Now customer can withdraw the amount (if it is greater than the set limit of withdrawn). Customer will be moved on to the "Withdrawal | 
+transfer to bank" page and fill the details (Withdrawal Amount, Bank, Address) required by Airewallex.
+5. Once click on "Submit" button, the amount withdrawal will be done through the AirWallex API which is already implemented into the site.
+6. Rest is upto the AirWallex internal system i.e. how they are debiting the amount from your account (at AirWallex) and crediting into the customer's bank account.
+
+B. Newsletter Section:
+--------------------------
+1. Open the website: https://omgee.com.au/au/ and subscribe any email id.
+2. The subscribed email id will be listed in the backend. So now login with Admin login credentials.
+3. Go to Newsletter section and change the "Status" of the email id from "Pending" to "Active". Note: "Mail Status" column is of no use for now. It was added for future use.
+4. Right now the system is not sending any newsletter to the subscribed email id because there was no requirement mentioned earlier for the newsletter template design and development. Also, there is no integration of any external email marketing platform (e.q mailchimp) in the site. Thus for now only email id is being subscribed and being listed in the Admin Panel. If you have any specific reuirement about the newsletter, please let me know if detail so I can check the feasibility.
+
+Please let me know if you have any queries about these sections.
+
+Best,
+Tanmay
+
+
+
+
+

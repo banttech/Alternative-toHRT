@@ -1,0 +1,51 @@
+in points ma sa jo ap na done kia hain un ka agay bhi done likho zra.
+Pending Tasks:
+3. URL: http://hrt.banttech.com/
+a. Implement Search product page if user clicks on "Search" icon same as live site.  (pending)
+
+4. URL: http://hrt.banttech.com/
+Then focus the user to the cart icon or show cart popup just like live site.  (pending)
+d. Display "Save 10%" option just for each product like live site.  (pending)
+
+8. URL: http://hrt.banttech.com/
+c. Also link "Author" to its detail page just like "https://alternativetohrt.co.uk/author/jermainechi/" url and display the blogs created by clicked author. (you can display blog just like http://hrt.banttech.com/hrt/blog page).  (done)-abhishek
+
+10. URL: http://hrt.banttech.com/
+a. Implement Cookies like live site. (pending)
+
+11. URL: http://hrt.banttech.com/
+a. Wishlist is implemented without AJAX. Just implement AJAX function. Also update other 2 pages where products lists are coming with AJAX function.  (pending)
+
+12. URL: http://hrt.banttech.com/
+a. Create "SITEMAP" just like "https://alternativetohrt.co.uk/sitemap.html/"    (pending)
+
+
+16. URL: http://hrt.banttech.com/hrt/blog
+c. Link Author to their Author Detail page.  (done)-abhishek
+d. Link 'Read more' to their Blog Detail page.  (pending)-abhishek
+
+17. URL: http://hrt.banttech.com/hrt/blog/fgh
+d. Check and fix "Leave a Reply" section in this page.  (done)-abhishek
+
+18. URL: http://hrt.banttech.com/contactus
+b. Set "Natural Juices & Vitamins Ltd      
+King's Ave, Sunbury-on-Thames TW16 7QE, United Kingdom" address in Google Map.  (pending)
+c. Display "We are here to help
+You can reach us through our contact us form or in case you want to speak with one of representatives feel free to call us 0207 205 2477 or 0208 8941315. If calling from abroad please dial: +44 207 205 2477. Lines are open 9am – 8pm Mon-Sat." text at the top just like live site.  (pending)
+d. Remove "(+44) 207 205 2477,0208 894 1315" from E-Mail block.  (done)
+e. Display "Mon- Sat: 9:00 AM - 8:00 PM" in Business Hours block. (done)
+f. Create a new Green color block for Address and show "Address (done)
+Natural Juices & Vitamins Ltd. Braemar House 30 Kings Ave Sunbury On Thames Middlesex
+TW16 7QE" just like live site.  (done)
+g. In "Send Us A Message" form, remove "Phone Number" and "Subject" fields and check this form functionality.  (done)
+
+19. URL: http://hrt.banttech.com/cart
+e. Implement Add Coupon functionality. (pending)
+f. Why "Free Shipping" is coming 2 times. Remove any one. (done)
+g. Impement both Paypal and Paymentsense payment gateway properly. (pending)
+-------------------------------------------------------------------------------------------------------------------------
+In Process:
+15. URL: http://hrt.banttech.com/shop
+a. Add "Product categories" block in this page just like live site. And link the categories with their category detail page.  (designing part is remaining)-abhishek
+b. Check the "Product Tags" block and their tags links. They have been implemented. You need to check. (designing part is remaining)
+c. Display all the information of the products just like live site. See point #7.b and implement the same feature here. (done)
